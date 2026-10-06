@@ -64,7 +64,7 @@ function SiteLayout() {
           <span>McKinnon Secondary College</span>
           <span>Built for a school project</span>
           <span>Built on the Xeno Ecosystem</span>
-          <Link to="/launcher">Developer Xeno ↗</Link>
+          <Link to="">Developer Xeno ↗</Link>
         </footer>
       </div>
     </div>
