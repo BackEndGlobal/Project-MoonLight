@@ -55,7 +55,7 @@ function SiteLayout() {
             ))}
           </nav>
           <nav aria-label="Secondary navigation" className="secondary-nav">
-            <NavLink to="/launcher">Launcher</NavLink>
+            <NavLink to="">Launcher</NavLink>
           </nav>
         </header>
         <Outlet />
